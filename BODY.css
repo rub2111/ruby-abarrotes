@@ -1,0 +1,18 @@
+body {
+padding-left: 2em;
+padding-right:2em;
+font-family: "Times new roman";
+color: #338FC2;
+background-color: #CCCCFF;
+
+}
+
+ul.navbar a {
+text-decoration: none}
+a:link {
+color:#55CBCD;
+}
+a:visited {
+color:#55CBCD
+}
+
